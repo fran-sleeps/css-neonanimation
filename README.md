@@ -1,2 +1,2 @@
-# personal-projects
+# css animation
 Personal project to complete CSS animation.
